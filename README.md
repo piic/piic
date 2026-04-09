@@ -8,9 +8,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/piic/count.svg?"  />
-</div>
+
 
 ###
 
